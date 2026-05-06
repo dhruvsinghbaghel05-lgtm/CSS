@@ -4,3 +4,8 @@ body{
 #color{
     color: brown;
 }
+#background{
+    background-color: black;
+    color: brown;
+    width: fit-content;
+}
