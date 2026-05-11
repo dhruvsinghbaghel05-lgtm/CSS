@@ -3,3 +3,11 @@
     height: 355px;
     width: 130px;
 }
+#red{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+    padding: 10px 0 0 10px;
+    margin: 10px 10px 10px 10px;
+}
