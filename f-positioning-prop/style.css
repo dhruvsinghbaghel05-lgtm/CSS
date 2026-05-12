@@ -23,3 +23,10 @@ div{
     left: 50px;
     /* absolute - positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed) */
 }
+#box4{
+    background-color: pink;
+    position: fixed;
+    top: 200px;
+    left: 500px;
+    /* fixed - positioned relative to the viewport(browser, which means it always stays in the same placer even if the page is scrolled */
+}
