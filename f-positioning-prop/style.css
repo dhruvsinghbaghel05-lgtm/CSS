@@ -16,3 +16,10 @@ div{
     left: 20px;
     /* relative - positioned relative to its normal position */
 }
+#box3{
+    background-color: aqua;
+    position: absolute;
+    top: 500px;
+    left: 50px;
+    /* absolute - positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed) */
+}
