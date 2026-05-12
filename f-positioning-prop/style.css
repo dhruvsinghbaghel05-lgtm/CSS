@@ -9,3 +9,10 @@ div{
     position: static;
     /* static - default position (The top, right, bottom, left, and z-index properties have no effect) */
 }
+#box2{
+    background-color: beige;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    /* relative - positioned relative to its normal position */
+}
