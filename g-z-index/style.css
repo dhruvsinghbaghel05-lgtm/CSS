@@ -23,3 +23,10 @@ div{
     top: 60px;
      z-index: 1;
 }
+#box4{
+    background-color: pink;
+    position: relative;
+    right: 180px;
+    top: 90px;
+     z-index: 2;    
+}
