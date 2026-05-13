@@ -9,3 +9,10 @@ div{
     position: relative;
      z-index: -1;
 }
+#box2{
+    background-color: beige;
+    position: relative;
+    right: 60px;
+    top: 30px;
+     z-index: 0;
+}
