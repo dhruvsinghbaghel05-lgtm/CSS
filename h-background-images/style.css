@@ -3,3 +3,9 @@ div{
     margin: 10px;
     
 }
+#box1{
+    height: 500px;
+    width: 800px;
+    background-image: url(photo1.jpg);
+    background-size: cover;
+}
