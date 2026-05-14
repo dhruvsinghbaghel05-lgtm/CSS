@@ -9,3 +9,9 @@ div{
     background-image: url(photo1.jpg);
     background-size: cover;
 }
+#box2{
+    height: 500px;
+    width: 800px;
+        background-image: url(photo2.jpg);
+    background-size: cover;
+}
