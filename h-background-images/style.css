@@ -21,3 +21,9 @@ div{
     background-image: url(photo3.jpg);
     background-size: cover;
 }
+#box4{
+    height: 500px;
+    width: 800px;
+    background-image: url(photo4.jpg);
+    background-size: cover; 
+}
