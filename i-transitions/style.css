@@ -39,3 +39,7 @@ div{
     margin:0 auto;
     transform: translateX(100px);
 }
+#box7{
+    margin:0 auto;
+    transform:skew(45deg)
+}
