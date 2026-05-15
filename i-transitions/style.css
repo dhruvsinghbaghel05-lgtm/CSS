@@ -3,3 +3,9 @@ div{
     height: 100px;
     background-color: pink
 }
+#box1, #box2{
+    margin: 20px;
+    transition: all 0.5s ease-in-out;
+    display: inline-block;
+    transition-delay:0.5s;
+}
