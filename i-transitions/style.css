@@ -35,3 +35,7 @@ div{
     transition-delay: 0.5s;
     background-color: lightgreen;
 }
+#box6{
+    margin:0 auto;
+    transform: translateX(100px);
+}
