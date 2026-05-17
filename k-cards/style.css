@@ -11,3 +11,7 @@ body{
       align-items:center;
       background:#f2f2f2;
     }
+.container{
+      display:flex;
+      gap:40px;
+    }
