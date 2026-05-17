@@ -39,4 +39,9 @@ body{
 .blue{
       background:#3fd3e8;
     }
+ .top img{
+      width:120px;
+      height:120px;
+      object-fit:contain;
+    }
 
