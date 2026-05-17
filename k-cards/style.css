@@ -52,4 +52,7 @@ body{
       margin-bottom:20px;
       font-family:Georgia, serif;
     }
-
+.content p{
+      font-size:18px;
+      color:#333;
+    }
