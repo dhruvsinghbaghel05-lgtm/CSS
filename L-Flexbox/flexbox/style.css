@@ -24,3 +24,7 @@
     flex-direction:column 
     /* flexbox direction in column is top to bottom and in column reverse is bottom to top */
 }
+#container2 div{
+    height:50px;
+    width:130px;
+
