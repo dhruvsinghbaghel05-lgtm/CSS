@@ -2,4 +2,10 @@
     height: 350px;
     width: 910px;
     background-color: lightblue;
+     margin:20px auto;
+    border:2px solid black;
+    display:flex;
+    flex-direction:row; 
+    /* flexbox direction in row is left to right and in row reverse is right to left */
+
 }
