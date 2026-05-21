@@ -10,3 +10,8 @@
     justify-content : space-evenly;
     flex-wrap: wrap;
 }
+#container1 div{
+    height:50px;
+    width:300px;
+   
+}
