@@ -10,3 +10,19 @@
     align-content: flex-start;
     
 }
+#container1 div{
+    height: 100px;
+    width:300px;
+   text-align:center;
+    font-size:20px;
+    text-align:center;
+}
+#gre{
+    align-self: flex-start;
+}
+#yel{
+    align-self: center;
+}
+#org{
+    align-self: flex-end;
+}
