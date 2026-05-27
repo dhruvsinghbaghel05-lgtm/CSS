@@ -64,3 +64,25 @@
 #blu{
     flex-grow: 1;
 }
+#container4{
+    height:350px;
+    width:910px;
+    background-color:lightblue;
+    margin:20px auto;
+    border:2px solid black;
+    display:flex;
+    flex-direction:row;
+    /* flexbox direction in column is top to bottom and in column reverse is bottom to top */
+    /* justify-content : space-evenly; */
+    /* flex-wrap: wrap; */
+}
+#container4 div{
+    height:50px;
+    width:200px;
+   text-align:center;
+    font-size:20px;
+    text-align:center;
+}
+#gre{
+    flex-shrink: 2;
+}
