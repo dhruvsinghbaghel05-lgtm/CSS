@@ -42,3 +42,25 @@
 #ind{
     flex-basis: 100px; 
 }
+#container3{
+    height:350px;
+    width:910px;
+    background-color:lightblue;
+    margin:20px auto;
+    border:2px solid black;
+    display:flex;
+    flex-direction:row;
+    /* flexbox direction in column is top to bottom and in column reverse is bottom to top */
+    /* justify-content : space-evenly; */
+    flex-wrap: wrap;
+}
+#container3 div{
+    height:50px;
+    width:50px;
+   text-align:center;
+    font-size:20px;
+    text-align:center;
+}
+#blu{
+    flex-grow: 1;
+}
