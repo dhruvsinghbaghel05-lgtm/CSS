@@ -20,3 +20,25 @@
 #vio{
     flex-basis: 100px;
 }
+#container2{
+    height:350px;
+    width:910px;
+    background-color:lightblue;
+    margin:20px auto;
+    border:2px solid black;
+    display:flex;
+    flex-direction:column;
+    /* flexbox direction in column is top to bottom and in column reverse is bottom to top */
+    justify-content : space-evenly;
+    flex-wrap: wrap;
+}
+#container2 div{
+    height:50px;
+    width:50px;
+   text-align:center;
+    font-size:20px;
+    text-align:center;
+}
+#ind{
+    flex-basis: 100px; 
+}
